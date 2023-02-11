@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 0.The su betty script switches the current user to 'betty'
 1. The script whoami prints the username of the current user
 2. The sudo groups script prints all the groups the current user is part of
@@ -14,3 +15,6 @@
 owner has full permission, groups are able to read and execute and others would be able to execute only
 13.This script chgrp school hello changes the group of hello to school
 
+=======
+My name is betty
+>>>>>>> 5e2482b1305b6cadf7a780812d0e16aabf4f6556
